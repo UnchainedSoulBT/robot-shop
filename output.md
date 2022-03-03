@@ -29,5 +29,5 @@ $ alias kn=kubectl -n robot-shop
 ```
 ##Result
 
-<img src="Result.png" alt="drawing" width="200"/>
+<img src="Result.png" alt="drawing" width="800"/>
 
