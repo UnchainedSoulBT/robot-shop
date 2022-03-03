@@ -4,9 +4,15 @@ Check Helm Version ,Required for later(I'll use 3.8.0)
 ```shell
 $ helm version
 ```
+
 Install Stan's Robot Shop on the cluster using the helm chart 
 ```shell
 $ cd helm
+$ kubectl create ns robot-shop
+$ helm install robot-shop --namespace robot-shop .
+```
+If you are using Helm V2.x then use
+```shell
 $ helm install --name robot-shop --namespace robot-shop .
 ```
 apply the resource quatas
@@ -29,5 +35,5 @@ $ alias kn=kubectl -n robot-shop
 ```
 ##Result
 
-<img src="Result.png" alt="drawing" width="800"/>
 
+<img src="Result.png" alt="drawing" width="800"/>
