@@ -35,10 +35,11 @@ use alias to shortcut the kubectl & Specific NS
 ```shell
 $ alias kn=kubectl -n robot-shop
 ```
-##Result
+##Results
 
 
 <img src="Result.png" alt="drawing" width="800"/>
+<img src="Result2.png" alt="drawing" width="800"/>
 
 **Question**
 Is there anything wrong with committing the file directly to the master
