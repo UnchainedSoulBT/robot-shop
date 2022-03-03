@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/UnchainedSoulBT/robot-shop/blob/Ben_Tal/BT_Logo.jpeg?raw=true)
+![alt text](https://github.com/UnchainedSoulBT/robot-shop/blob/master/BT_Logo.jpeg?raw=true)
 # BT's Instructions
 verify installation of Helm & ISTIO
 Check Helm Version ,Required for later(I'll use 3.8.0)
