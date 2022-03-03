@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/UnchainedSoulBT/robot-shop/blob/Ben_Tal/BT_Logo.jpeg?raw=true)
 # BT's Instructions
 verify installation of Helm & ISTIO
 Check Helm Version ,Required for later(I'll use 3.8.0)
@@ -47,3 +49,5 @@ The master branch is deployable. It is your production code, ready to roll out i
 The master branch is meant to be stable, and it is the social contract of open source software to never push anything to master that is not tested, or that breaks the build. 
 The entire reason GitHub works is that it is always safe to work from the master.
 We can prevent that with the use of Protected Branch, We'll go to the Setting >> Branches and there we can add rules about who can Write/Modify/Remove and much more.
+
+<img src="BT_Sign.jpeg" alt="drawing" width="200"/>
