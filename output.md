@@ -29,5 +29,5 @@ $ alias kn=kubectl -n robot-shop
 ```
 ##Result
 
+<img src="Result.png" alt="drawing" width="200"/>
 
-![alt text](https://github.com/UnchainedSoulBT/robot-shop/tree/Ben_Tal/Result.png?raw=true)
