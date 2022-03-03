@@ -37,3 +37,13 @@ $ alias kn=kubectl -n robot-shop
 
 
 <img src="Result.png" alt="drawing" width="800"/>
+
+**Question**
+Is there anything wrong with committing the file directly to the master
+branch? How would you prevent that?
+
+**Answer**
+The master branch is deployable. It is your production code, ready to roll out into the world.
+The master branch is meant to be stable, and it is the social contract of open source software to never push anything to master that is not tested, or that breaks the build. 
+The entire reason GitHub works is that it is always safe to work from the master.
+We can prevent that with the use of Protected Branch, We'll go to the Setting >> Branches and there we can add rules about who can Write/Modify/Remove and much more.
