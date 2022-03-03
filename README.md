@@ -1,3 +1,4 @@
+![alt text](https://github.com/UnchainedSoulBT/robot-shop/blob/Ben_Tal/BT_Logo.jpeg?raw=true)
 # Sample Microservice Application
 
 Stan's Robot Shop is a sample microservice application you can use as a sandbox to test and learn containerised application orchestration and monitoring techniques. It is not intended to be a comprehensive reference example of how to write a microservices application, although you will better understand some of those concepts by playing with Stan's Robot Shop. To be clear, the error handling is patchy and there is not any security built into the application.
@@ -126,3 +127,4 @@ $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
 
+<img src="BT_Sign.jpeg" alt="drawing" width="200"/>
